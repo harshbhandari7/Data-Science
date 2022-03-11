@@ -5,8 +5,9 @@ The repository also contains learning from various sources.
 
 It contains introduction, summary and hands on exercises on following topics:
 
-- **_Numpy_**
-- **_Pandas_**
+- **_[Numpy](https://github.com/harshbhandari7/Data-Science/tree/main/numpy)_**
+- **_[Pandas](https://github.com/harshbhandari7/Data-Science/tree/main/pandas)_**
+- **_[Visualisation](https://github.com/harshbhandari7/Data-Science/tree/main/visualization)_**
 
 The datasets used are stored in '/data_files' directory.
 
